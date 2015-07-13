@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Payday2SideJobWidget</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_payday_information">PaydayInformation</string>
+</resources>
